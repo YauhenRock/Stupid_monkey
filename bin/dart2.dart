@@ -12,7 +12,7 @@ print(a.join(', '));
 String message = "Hello, Dart!";
 print(message.contains('Dart'));
 String sentence = "Dart is a programming language";
-
+//нгш
 print(sentence.split(' '));
 String str = '123';
 print(str.isEmpty);
